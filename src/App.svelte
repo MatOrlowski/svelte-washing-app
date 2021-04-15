@@ -1,14 +1,14 @@
 <script>
-import HowTo from './HowTo.svelte';
-import Timer from './Timer.svelte'
+  import HowTo from './HowTo.svelte';
+  import Timer from './Timer.svelte';
 </script>
 
 <h1>HandwashingApp</h1>
-<Timer/>
-<HowTo/>
+<Timer />
+<HowTo />
 
 <style>
-	h1{
-		text-align: center;
-	}
+  h1 {
+    text-align: center;
+  }
 </style>
